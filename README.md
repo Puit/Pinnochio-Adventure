@@ -7,3 +7,4 @@ I developed this game for the Community Game Jam 2019, where the participants ha
       - D to go right
       - Space to jump and go to next dialog
       - Left mouse button to attack
+You can try it at https://puit.itch.io/pinnochio-adventure
